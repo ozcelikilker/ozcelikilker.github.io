@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, <a href='https://en.ogu.edu.tr/'>ESOGU</a> · Director, ISS Lab · AI & Network Security Researcher
+subtitle: **Assistant Professor**, <a href='https://en.ogu.edu.tr/'>ESOGU</a> · **Director**, ISS Lab · AI & Network Security Researcher
 
 profile:
   align: right
