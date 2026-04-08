@@ -486,6 +486,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=tSvqtb0AAAAJ", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/ozcelikilker", "_blank");
+        },
+      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
