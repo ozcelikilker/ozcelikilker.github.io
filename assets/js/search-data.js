@@ -476,7 +476,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6F%7A%63%65%6C%69%6B%69%6C%6B%65%72@%69%65%65%65.%6F%72%67", "_blank");
+          window.open("mailto:%63%6F%6E%74%61%63%74@%6F%7A%63%65%6C%69%6B%69%6C%6B%65%72.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -486,11 +486,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=tSvqtb0AAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://esoguiss.wordpress.com/", "_blank");
+          window.open("https://www.linkedin.com/in/ozcelikilker", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-2032-1640", "_blank");
         },
       },{
         id: 'social-rss',
@@ -498,6 +505,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://esoguiss.wordpress.com/", "_blank");
         },
       },{
       id: 'light-theme',
