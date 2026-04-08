@@ -6,8 +6,4 @@ email: contact@ozcelikilker.com # your email address
 google_scholar: tSvqtb0AAAAJ # your Google Scholar ID
 linkedin: ozcelikilker
 orcid: 0000-0002-2032-1640
-custom_social:
-  - logo: "/assets/img/ISSLab_192.png"
-    title: "ISSLab"
-    url: "https://esoguiss.wordpress.com/"
 rss_icon: true # comment this line to hide the RSS icon
