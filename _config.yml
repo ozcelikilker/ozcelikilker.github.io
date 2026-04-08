@@ -282,8 +282,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Ozcelik, Özçelik]
-  first_name: [Ilker, I., İlker]
+  last_name: [Ozcelik, Özçelik, ÖZÇELİK]
+  first_name: [Ilker, I., İlker, İ.]
 
   style: apa
   locale: en
