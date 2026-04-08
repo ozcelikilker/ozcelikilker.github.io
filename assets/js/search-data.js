@@ -500,13 +500,6 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-2032-1640", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://esoguiss.wordpress.com/", "_blank");
-        },
-      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
