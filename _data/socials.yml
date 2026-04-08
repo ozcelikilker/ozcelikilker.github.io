@@ -12,4 +12,4 @@ custom_social: # can be any name here other than the ones already defined in the
   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   title: ISSLab
   url: https://esoguiss.wordpress.com/
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
