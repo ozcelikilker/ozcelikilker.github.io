@@ -4,7 +4,7 @@
 cv_pdf: /assets/pdf/Ilker-Ozcelik-Resume-Eng.pdf # path to your CV PDF file
 email: contact@ozcelikilker.com # your email address
 scholar_userid: tSvqtb0AAAAJ # your Google Scholar ID
-linkedin: ozcelikilker
+linkedin: ozcelikilker #Linkedin
 #orcid: 0000-0002-2032-1640
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
