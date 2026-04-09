@@ -32,30 +32,30 @@ As modern systems become increasingly distributed and intelligent, they introduc
 <a href="https://esoguiss.wordpress.com/" class="btn btn-outline-primary btn-sm" target="_blank">Visit Official Lab Website</a>
 </div>
 
-# Research Focus
+## Research Focus
 
 Our laboratory focuses on three primary pillars of modern security:
 
-* Networking: Software Defined Networking (SDN), Network Traffic Analysis, and high-performance protocol security.
-* Intelligent Systems: Privacy-preserving AI, anomaly detection, and autonomous system security.
-* Distributed Systems: Blockchain applications, Cryptographic Accumulators, and decentralized identity management.
+* **Networking**: Software Defined Networking (SDN), Network Traffic Analysis, and high-performance protocol security.
+* **Intelligent** Systems: Privacy-preserving AI, anomaly detection, and autonomous system security.
+* **Distributed** Systems: Blockchain applications, Cryptographic Accumulators, and decentralized identity management.
 
 # Key Projects
 
-**Scalable Edge Authentication Framework**
-Supported by TÜBİTAK 3501 — Utilizing Blockchain and Cryptographic Accumulators to enable secure, low-latency authentication data sharing across IoT edge nodes.
+<span class="text-primary fw-bold text-decoration-underline">Scalable Edge Authentication Framework</span>
+Supported by **TÜBİTAK** 3501 — Utilizing Blockchain and Cryptographic Accumulators to enable secure, low-latency authentication data sharing across IoT edge nodes.
 
-**Data Center Security & Monitoring**
-Collaboration with DorukNet — Developing real-time traffic monitoring (Flowzen) and adaptive data collection (Iris) for resilient cloud infrastructures.
+<span class="text-primary fw-bold text-decoration-underline">Data Center Security & Monitoring</span>
+Collaboration with **DorukNet** — Developing real-time traffic monitoring (Flowzen) and adaptive data collection (Iris) for resilient cloud infrastructures.
 
-**Digital Twin Based Smart Attack Detection**
-Supported by Presidency of Defense Industries (SSB) — Designing intelligent defense systems using Digital Twin technology to protect critical infrastructures as part of the "Milli Teknoloji Hamlesi."
+<span class="text-primary fw-bold text-decoration-underline">Digital Twin Based Smart Attack Detection</span>
+Supported by **Presidency of Defense Industries (SSB)** — Designing intelligent defense systems using Digital Twin technology to protect critical infrastructures as part of the "Milli Teknoloji Hamlesi."
 
 # Join the Community
 
 We actively maintain community groups for researchers and students interested in intelligent security.
-* LinkedIn Group: Follow our latest posts and professional updates.
-* Google Group: Join our community group for research discussions and webinar announcements.
+* <a href="https://www.linkedin.com/groups/9539313/" class="text-primary fw-bold text-decoration-underline">LinkedIn Group</a>: Follow our latest posts and professional updates.
+* <a href="https://groups.google.com/g/iss-lab-community" class="text-primary fw-bold text-decoration-underline">Google Group</a>: Join our community group for research discussions and webinar announcements.
 
 # Contact
 **Location**: ESOGÜ Software Engineering Dept.
