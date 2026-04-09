@@ -33,8 +33,8 @@ As modern systems become increasingly distributed and intelligent, they introduc
 Our laboratory focuses on three primary pillars of modern security:
 
 * **Networking**: Software Defined Networking (SDN), Network Traffic Analysis, and high-performance protocol security.
-* **Intelligent** Systems: Privacy-preserving AI, anomaly detection, and autonomous system security.
-* **Distributed** Systems: Blockchain applications, Cryptographic Accumulators, and decentralized identity management.
+* **Intelligent Systems**: Privacy-preserving AI, anomaly detection, and autonomous system security.
+* **Distributed Systems**: Blockchain applications, Cryptographic Accumulators, and decentralized identity management.
 
 ## Key Projects
 
