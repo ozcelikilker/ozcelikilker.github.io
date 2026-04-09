@@ -1,12 +1,9 @@
 \---
-
 layout: book-shelf
 title: ISSLab
 permalink: /isslab/
 nav: true
----
-
-nav\_order: 3
+nav_order: 3
 collection: books
 ---
 
