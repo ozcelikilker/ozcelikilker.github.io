@@ -1,7 +1,7 @@
 ---
-layout: 
-page title: ISSLab 
+layout: page
 permalink: /isslab/ 
+title: ISSLab 
 description: Intelligent Systems Security Research Group 
 nav: true 
 nav_order: 3 
