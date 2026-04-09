@@ -8,7 +8,7 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+Course materials, assignments, and detailed resources are hosted both on this site and via the **Canvas** university system. Please ensure you check both platforms periodically, as updates to schedules and materials will be posted throughout the semester.
 
 {% comment %}
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
