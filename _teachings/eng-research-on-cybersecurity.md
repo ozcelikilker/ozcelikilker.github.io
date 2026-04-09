@@ -71,7 +71,7 @@ schedule:
 
 ## Course Overview
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+**(Will Update Soon)** This course provides a comprehensive introduction to data science principles and practices. Students will:
 
 - Learn the end-to-end data science workflow
 - Gain practical experience with data manipulation tools
