@@ -18,10 +18,6 @@ horizontal: false
   </div>
 </div>
 
-# <div class="caption">
-#  <strong>Intelligent Systems Security Laboratory (ISSLab)</strong>
-# </div>
-
 ## Overview
 
 The Intelligent Systems Security Laboratory (ISSLab) is led by Dr. İlker Özçelik. Our research is dedicated to designing secure, resilient, and smart infrastructures for the next generation of information systems.
