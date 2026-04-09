@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-",
-          title: "",
+        },{id: "nav-isslab",
+          title: "ISSLab",
           description: "Intelligent Systems Security Research Group",
           section: "Navigation",
           handler: () => {
