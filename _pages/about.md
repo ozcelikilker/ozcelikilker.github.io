@@ -35,5 +35,4 @@ My research is dedicated to advancing resilient and secure digital infrastructur
 * **AI for Network Security**: Harnessing deep learning and Graph Neural Networks (GNNs) to detect large-scale anomalies, such as botnets and DDoS attacks, in complex environments including Software-Defined Networks (SDN) and edge computing.
 
 * **Security of AI Systems**: Analyzing the vulnerabilities of machine learning models to adversarial attacks and developing robust mitigation frameworks to ensure the integrity of AI-driven systems.
-
-Through my leadership at ISSLab, I aim to architect scalable, blockchain-integrated, and AI-resilient solutions for the next generation of secure network infrastructures.
+At ISSLab, I aim to develop scalable, blockchain-integrated, and AI-resilient solutions for the next generation of secure network infrastructures.
