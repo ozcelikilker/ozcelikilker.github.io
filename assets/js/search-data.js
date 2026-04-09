@@ -474,8 +474,8 @@ ninja.data = [{
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/eng-research-on-cybersecurity/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
+            },},{id: "teachings-introduction-to-network-security",
+          title: 'Introduction to Network Security',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/network-security/";
