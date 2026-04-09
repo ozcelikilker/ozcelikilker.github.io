@@ -86,7 +86,7 @@ schedule:
 
 ## Course Overview
 
-This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
+**(Will Update Soon)** This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
 
 - Understand key machine learning paradigms and concepts
 - Implement basic machine learning algorithms
