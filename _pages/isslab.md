@@ -9,18 +9,20 @@ display_categories: [research, lab]
 horizontal: false
 ---
 
-<!-- Logo Placeholder -->
-
 <div class="row justify-content-sm-center">
-<div class="col-sm-8 mt-3 mt-md-0">
-{% include figure.html path="assets/img/ISSLab_192.png" title="ISSLab Logo" class="img-fluid rounded z-depth-1" %}
-</div>
-</div>
-<div class="caption">
-Intelligent Systems Security Laboratory (ISSLab)
+  <div class="col-sm-8 mt-3 mt-md-0">
+    <img src="{{ '/assets/img/ISSLab_192.png' | relative_url }}" 
+         alt="ISSLab Logo" 
+         title="ISSLab Logo" 
+         class="img-fluid rounded z-depth-1">
+  </div>
 </div>
 
-Overview
+<div class="caption">
+  Intelligent Systems Security Laboratory (ISSLab)
+</div>
+
+##Overview
 
 The Intelligent Systems Security Laboratory (ISSLab) is led by Dr. İlker Özçelik. Our research is dedicated to designing secure, resilient, and smart infrastructures for the next generation of information systems.
 
