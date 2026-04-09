@@ -1,15 +1,31 @@
 ---
-layout: book-shelf
-title: ISSLab
-permalink: /isslab/
-nav: true
-nav_order: 3
-collection: books
+layout: 
+page title: ISSLab 
+permalink: /isslab/ 
+description: Intelligent Systems Security Research Group 
+nav: true 
+nav_order: 3 
+display_categories: [research, lab] 
+horizontal: false
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
->
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+<!-- Logo Placeholder -->
 
-## Books that I am reading, have read, or will read
+<div class="row justify-content-sm-center">
+<div class="col-sm-8 mt-3 mt-md-0">
+{% include figure.html path="assets/img/ISSLab_192.png" title="ISSLab Logo" class="img-fluid rounded z-depth-1" %}
+</div>
+</div>
+<div class="caption">
+Intelligent Systems Security Laboratory (ISSLab)
+</div>
 
+Overview
+
+The Intelligent Systems Security Laboratory (ISSLab) is led by Dr. İlker Özçelik. Our research is dedicated to designing secure, resilient, and smart infrastructures for the next generation of information systems.
+
+As modern systems become increasingly distributed and intelligent, they introduce complex security risks. We study these safe use cases and develop advanced methodologies to build systems that are not only smart but also resilient against sophisticated cyber threats.
+
+<div class="text-center">
+<a href="https://www.google.com/search?q=https://ozcelikilker.github.io/isslab/" class="btn btn-outline-primary btn-sm" target="_blank">Visit Official Lab Website</a>
+</div>
