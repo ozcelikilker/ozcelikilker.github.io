@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Data Structures
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
+description: This section is currently undergoing updates to provide the most accurate and up-to-date information. We expect the new content to be available shortly. Thank you for your patience and understanding during this maintenance period.
 instructor: Dr. İlker Özçelik
 term: Fall
 location: Main Campus, Room 301
