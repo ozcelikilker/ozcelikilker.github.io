@@ -1,8 +1,7 @@
 ---
 layout: course
 title: Computer Networks
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Dr. İlker Özçelik
+description: This section is currently undergoing updates to provide the most accurate and up-to-date information. We expect the new content to be available shortly. Thank you for your patience and understanding during this maintenance period.
 term: Spring
 location: Science Building, Room 202
 time: Mondays and Wednesdays, 2:00-3:30 PM
