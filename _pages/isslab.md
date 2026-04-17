@@ -11,7 +11,7 @@ horizontal: false
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    <img src="{{ '/assets/img/issLablogo1200.png' | relative_url }}" 
+    <img src="{{ '/assets/img/issLablogo1200.jpg' | relative_url }}" 
          alt="ISSLab Logo" 
          title="ISSLab Logo" 
          class="img-fluid rounded z-depth-1">
@@ -25,7 +25,7 @@ The Intelligent Systems Security Laboratory (ISSLab) is led by Dr. İlker Özçe
 As modern systems become increasingly distributed and intelligent, they introduce complex security risks. We study these systems and develop advanced methodologies to build systems that are not only smart but also resilient against sophisticated cyber threats.
 
 <div class="text-center">
-<a href="https://esoguiss.wordpress.com/" class="btn btn-outline-primary btn-sm" target="_blank">Visit Official Lab Website</a>
+<a href="https://ilkerozcelik.wordpress.com/" class="btn btn-outline-primary btn-sm" target="_blank">Visit Official Lab Website</a>
 </div>
 
 ## Research Focus
