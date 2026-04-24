@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-24'
 papers:
   tSvqtb0AAAAJ:1qzjygNMrQYC:
-    citations: 1
+    citations: 0
     title: Edge Authentication Using a Cryptographic Accumulator
     year: '2025'
   tSvqtb0AAAAJ:1sJd4Hv_s6UC:
@@ -34,7 +34,7 @@ papers:
     title: Operational system testing for designed in security
     year: '2013'
   tSvqtb0AAAAJ:BqipwSGYUEgC:
-    citations: 37
+    citations: 38
     title: 'Distributed Denial of Service Attacks: Real-world Detection and Mitigation'
     year: '2020'
   tSvqtb0AAAAJ:BrmTIyaxlBUC:
@@ -162,7 +162,7 @@ papers:
     title: Voice Activity Detection with Stochastic Resonance
     year: '2010'
   tSvqtb0AAAAJ:isC4tDSrTZIC:
-    citations: 98
+    citations: 99
     title: Stealthy domain generation algorithms
     year: '2017'
   tSvqtb0AAAAJ:j3f4tGmQtD8C:
@@ -202,7 +202,7 @@ papers:
     title: 'FIDO2 vs. OPENID CONNECT: A PERFORMANCE BENCHMARKING STUDY FOR MODERN AUTHENTICATION'
     year: Unknown Year
   tSvqtb0AAAAJ:sSrBHYA8nusC:
-    citations: 5
+    citations: 6
     title: Performance comparison of ECC libraries for IoT devices
     year: '2024'
   tSvqtb0AAAAJ:u-x6o8ySG0sC:
