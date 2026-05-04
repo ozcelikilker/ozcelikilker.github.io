@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-04'
 papers:
   tSvqtb0AAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -74,7 +74,7 @@ papers:
     title: 'TRCyberLab: An infrastructure for future internet and security studies'
     year: '2018'
   tSvqtb0AAAAJ:NMxIlDl6LWMC:
-    citations: 17
+    citations: 18
     title: "Siber Ter\xF6r ve DDoS"
     year: '2019'
   tSvqtb0AAAAJ:NhqRSupF_l8C:
@@ -146,7 +146,7 @@ papers:
     title: 'Scrybe: a secure audit trail for clinical trial data fusion'
     year: '2023'
   tSvqtb0AAAAJ:eJXPG6dFmWUC:
-    citations: 5
+    citations: 6
     title: Adversarial Attack Detection Approach for Intrusion Detection Systems
     year: '2024'
   tSvqtb0AAAAJ:f2IySw72cVMC:
@@ -166,7 +166,7 @@ papers:
     title: Stealthy domain generation algorithms
     year: '2017'
   tSvqtb0AAAAJ:j3f4tGmQtD8C:
-    citations: 99
+    citations: 98
     title: Deceiving entropy based DoS detection
     year: '2014'
   tSvqtb0AAAAJ:kRWSkSYxWN8C:
@@ -182,7 +182,7 @@ papers:
     title: Dos attack detection and mitigation
     year: '2015'
   tSvqtb0AAAAJ:mvPsJ3kp5DgC:
-    citations: 2
+    citations: 3
     title: 'BEATS: Practical Audit Trail in Blockchain Systems'
     year: '2025'
   tSvqtb0AAAAJ:nb7KW1ujOQ8C:
@@ -194,7 +194,7 @@ papers:
     title: Evaluation and Design of Performable Distributed Systems
     year: '2020'
   tSvqtb0AAAAJ:pyW8ca7W8N0C:
-    citations: 71
+    citations: 72
     title: 'Distributed denial of service (DDoS): a history'
     year: '2021'
   tSvqtb0AAAAJ:q3oQSFYPqjQC:
@@ -214,7 +214,7 @@ papers:
     title: Noise tolerant symbolic learning of markov models of tunneled protocols
     year: '2011'
   tSvqtb0AAAAJ:vRqMK49ujn8C:
-    citations: 15
+    citations: 16
     title: 'ROSIDS23: Network intrusion detection dataset for robot operating system'
     year: '2023'
   tSvqtb0AAAAJ:wbdj-CoPYUoC:
@@ -226,6 +226,6 @@ papers:
     title: Attack Detection
     year: '2020'
   tSvqtb0AAAAJ:yD5IFk8b50cC:
-    citations: 46
+    citations: 47
     title: An overview of cryptographic accumulators
     year: '2021'
