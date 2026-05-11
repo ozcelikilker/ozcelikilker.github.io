@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-11'
 papers:
   tSvqtb0AAAAJ:1qzjygNMrQYC:
-    citations: 0
+    citations: 1
     title: Edge Authentication Using a Cryptographic Accumulator
     year: '2025'
   tSvqtb0AAAAJ:1sJd4Hv_s6UC:
@@ -166,7 +166,7 @@ papers:
     title: Stealthy domain generation algorithms
     year: '2017'
   tSvqtb0AAAAJ:j3f4tGmQtD8C:
-    citations: 98
+    citations: 99
     title: Deceiving entropy based DoS detection
     year: '2014'
   tSvqtb0AAAAJ:kRWSkSYxWN8C:
@@ -214,7 +214,7 @@ papers:
     title: Noise tolerant symbolic learning of markov models of tunneled protocols
     year: '2011'
   tSvqtb0AAAAJ:vRqMK49ujn8C:
-    citations: 16
+    citations: 17
     title: 'ROSIDS23: Network intrusion detection dataset for robot operating system'
     year: '2023'
   tSvqtb0AAAAJ:wbdj-CoPYUoC:
