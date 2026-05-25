@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-25'
 papers:
   tSvqtb0AAAAJ:1qzjygNMrQYC:
-    citations: 1
+    citations: 0
     title: Edge Authentication Using a Cryptographic Accumulator
     year: '2025'
   tSvqtb0AAAAJ:1sJd4Hv_s6UC:
@@ -133,10 +133,6 @@ papers:
     citations: 1
     title: Deceiving DDoS Detection
     year: '2020'
-  tSvqtb0AAAAJ:bnK-pcrLprsC:
-    citations: 0
-    title: 239 Using Blockchain Technology for Audit Trail
-    year: '2026'
   tSvqtb0AAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Performance Analysis of DDoS Detection Methods on Real Network
@@ -146,7 +142,7 @@ papers:
     title: 'Scrybe: a secure audit trail for clinical trial data fusion'
     year: '2023'
   tSvqtb0AAAAJ:eJXPG6dFmWUC:
-    citations: 6
+    citations: 7
     title: Adversarial Attack Detection Approach for Intrusion Detection Systems
     year: '2024'
   tSvqtb0AAAAJ:f2IySw72cVMC:
@@ -194,7 +190,7 @@ papers:
     title: Evaluation and Design of Performable Distributed Systems
     year: '2020'
   tSvqtb0AAAAJ:pyW8ca7W8N0C:
-    citations: 72
+    citations: 73
     title: 'Distributed denial of service (DDoS): a history'
     year: '2021'
   tSvqtb0AAAAJ:q3oQSFYPqjQC:
