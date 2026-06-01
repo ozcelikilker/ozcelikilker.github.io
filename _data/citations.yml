@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-01'
 papers:
   tSvqtb0AAAAJ:1qzjygNMrQYC:
-    citations: 0
+    citations: 1
     title: Edge Authentication Using a Cryptographic Accumulator
     year: '2025'
   tSvqtb0AAAAJ:1sJd4Hv_s6UC:
@@ -86,7 +86,7 @@ papers:
     title: 'MARS: Machine learning based Adaptable and Robust Network Management for Software-defined Networks'
     year: '2020'
   tSvqtb0AAAAJ:TFP_iSt0sucC:
-    citations: 36
+    citations: 37
     title: 'Cusum-entropy: an efficient method for DDoS attack detection'
     year: '2016'
   tSvqtb0AAAAJ:UeHWp8X0CEIC:
@@ -138,11 +138,11 @@ papers:
     title: Performance Analysis of DDoS Detection Methods on Real Network
     year: '2012'
   tSvqtb0AAAAJ:dshw04ExmUIC:
-    citations: 12
+    citations: 13
     title: 'Scrybe: a secure audit trail for clinical trial data fusion'
     year: '2023'
   tSvqtb0AAAAJ:eJXPG6dFmWUC:
-    citations: 7
+    citations: 8
     title: Adversarial Attack Detection Approach for Intrusion Detection Systems
     year: '2024'
   tSvqtb0AAAAJ:f2IySw72cVMC:
@@ -178,7 +178,7 @@ papers:
     title: Dos attack detection and mitigation
     year: '2015'
   tSvqtb0AAAAJ:mvPsJ3kp5DgC:
-    citations: 3
+    citations: 4
     title: 'BEATS: Practical Audit Trail in Blockchain Systems'
     year: '2025'
   tSvqtb0AAAAJ:nb7KW1ujOQ8C:
@@ -210,7 +210,7 @@ papers:
     title: Noise tolerant symbolic learning of markov models of tunneled protocols
     year: '2011'
   tSvqtb0AAAAJ:vRqMK49ujn8C:
-    citations: 18
+    citations: 19
     title: 'ROSIDS23: Network intrusion detection dataset for robot operating system'
     year: '2023'
   tSvqtb0AAAAJ:wbdj-CoPYUoC:
