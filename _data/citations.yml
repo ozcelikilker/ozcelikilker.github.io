@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-12'
 papers:
   tSvqtb0AAAAJ:1qzjygNMrQYC:
-    citations: 1
+    citations: 0
     title: Edge Authentication Using a Cryptographic Accumulator
     year: '2025'
   tSvqtb0AAAAJ:1sJd4Hv_s6UC:
@@ -94,11 +94,11 @@ papers:
     title: Target tracking with self- organizing distributed sensors
     year: '2012'
   tSvqtb0AAAAJ:UxriW0iASnsC:
-    citations: 18
+    citations: 19
     title: MQTT Security at a Glance
     year: '2021'
   tSvqtb0AAAAJ:V3AGJWp-ZtQC:
-    citations: 2
+    citations: 4
     title: Using Blockchain Technology for Audit Trail
     year: '2025'
   tSvqtb0AAAAJ:VOx2b1Wkg3QC:
@@ -142,7 +142,7 @@ papers:
     title: 'Scrybe: a secure audit trail for clinical trial data fusion'
     year: '2023'
   tSvqtb0AAAAJ:eJXPG6dFmWUC:
-    citations: 8
+    citations: 7
     title: Adversarial Attack Detection Approach for Intrusion Detection Systems
     year: '2024'
   tSvqtb0AAAAJ:f2IySw72cVMC:
@@ -178,7 +178,7 @@ papers:
     title: Dos attack detection and mitigation
     year: '2015'
   tSvqtb0AAAAJ:mvPsJ3kp5DgC:
-    citations: 4
+    citations: 5
     title: 'BEATS: Practical Audit Trail in Blockchain Systems'
     year: '2025'
   tSvqtb0AAAAJ:nb7KW1ujOQ8C:
@@ -210,7 +210,7 @@ papers:
     title: Noise tolerant symbolic learning of markov models of tunneled protocols
     year: '2011'
   tSvqtb0AAAAJ:vRqMK49ujn8C:
-    citations: 19
+    citations: 18
     title: 'ROSIDS23: Network intrusion detection dataset for robot operating system'
     year: '2023'
   tSvqtb0AAAAJ:wbdj-CoPYUoC:
