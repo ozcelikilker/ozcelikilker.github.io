@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-08'
 papers:
   tSvqtb0AAAAJ:1qzjygNMrQYC:
-    citations: 0
+    citations: 1
     title: Edge Authentication Using a Cryptographic Accumulator
     year: '2025'
   tSvqtb0AAAAJ:1sJd4Hv_s6UC:
@@ -34,7 +34,7 @@ papers:
     title: Operational system testing for designed in security
     year: '2013'
   tSvqtb0AAAAJ:BqipwSGYUEgC:
-    citations: 38
+    citations: 39
     title: 'Distributed Denial of Service Attacks: Real-world Detection and Mitigation'
     year: '2020'
   tSvqtb0AAAAJ:BrmTIyaxlBUC:
@@ -98,7 +98,7 @@ papers:
     title: MQTT Security at a Glance
     year: '2021'
   tSvqtb0AAAAJ:V3AGJWp-ZtQC:
-    citations: 4
+    citations: 6
     title: Using Blockchain Technology for Audit Trail
     year: '2025'
   tSvqtb0AAAAJ:VOx2b1Wkg3QC:
@@ -142,7 +142,7 @@ papers:
     title: 'Scrybe: a secure audit trail for clinical trial data fusion'
     year: '2023'
   tSvqtb0AAAAJ:eJXPG6dFmWUC:
-    citations: 7
+    citations: 9
     title: Adversarial Attack Detection Approach for Intrusion Detection Systems
     year: '2024'
   tSvqtb0AAAAJ:f2IySw72cVMC:
@@ -158,7 +158,7 @@ papers:
     title: Voice Activity Detection with Stochastic Resonance
     year: '2010'
   tSvqtb0AAAAJ:isC4tDSrTZIC:
-    citations: 99
+    citations: 100
     title: Stealthy domain generation algorithms
     year: '2017'
   tSvqtb0AAAAJ:j3f4tGmQtD8C:
@@ -178,7 +178,7 @@ papers:
     title: Dos attack detection and mitigation
     year: '2015'
   tSvqtb0AAAAJ:mvPsJ3kp5DgC:
-    citations: 5
+    citations: 6
     title: 'BEATS: Practical Audit Trail in Blockchain Systems'
     year: '2025'
   tSvqtb0AAAAJ:nb7KW1ujOQ8C:
@@ -190,7 +190,7 @@ papers:
     title: Evaluation and Design of Performable Distributed Systems
     year: '2020'
   tSvqtb0AAAAJ:pyW8ca7W8N0C:
-    citations: 74
+    citations: 76
     title: 'Distributed denial of service (DDoS): a history'
     year: '2021'
   tSvqtb0AAAAJ:q3oQSFYPqjQC:
@@ -198,7 +198,7 @@ papers:
     title: 'FIDO2 vs. OPENID CONNECT: A PERFORMANCE BENCHMARKING STUDY FOR MODERN AUTHENTICATION'
     year: Unknown Year
   tSvqtb0AAAAJ:sSrBHYA8nusC:
-    citations: 6
+    citations: 7
     title: Performance comparison of ECC libraries for IoT devices
     year: '2024'
   tSvqtb0AAAAJ:u-x6o8ySG0sC:
@@ -210,7 +210,7 @@ papers:
     title: Noise tolerant symbolic learning of markov models of tunneled protocols
     year: '2011'
   tSvqtb0AAAAJ:vRqMK49ujn8C:
-    citations: 18
+    citations: 21
     title: 'ROSIDS23: Network intrusion detection dataset for robot operating system'
     year: '2023'
   tSvqtb0AAAAJ:wbdj-CoPYUoC:
