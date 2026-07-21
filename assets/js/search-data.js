@@ -471,7 +471,7 @@ ninja.data = [{
               window.location.href = "/teachings/data-structures/";
             },},{id: "teachings-engineering-research-on-cyber-security",
           title: 'Engineering Research on Cyber Security',
-          description: "This section is currently undergoing updates to provide the most accurate and up-to-date information. We expect the new content to be available shortly. Thank you for your patience and understanding during this maintenance period.",
+          description: "This is an engineering research on cyber security course. Students propose cybersecurity projects, find problems, propose solutions, implement them, and present their findings to a committee at the end of the year.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/eng-research-on-cybersecurity/";
             },},{id: "teachings-introduction-to-network-security",
