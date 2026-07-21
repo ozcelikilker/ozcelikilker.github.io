@@ -464,9 +464,9 @@ ninja.data = [{
           description: "This course provides a comprehensive introduction to the architecture and protocols of the Internet using a top-down approach.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/computer-networks/";
-            },},{id: "teachings-data-structures",
-          title: 'Data Structures',
-          description: "This section is currently undergoing updates to provide the most accurate and up-to-date information. We expect the new content to be available shortly. Thank you for your patience and understanding during this maintenance period.",
+            },},{id: "teachings-data-structures-and-algorithms",
+          title: 'Data Structures and Algorithms',
+          description: "This course provides an essential introduction to data structures and algorithm design, covering foundational concepts from iterative and recursive algorithms to advanced structures like AVL trees, splay trees, and hash tables.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-structures/";
             },},{id: "teachings-engineering-research-on-cyber-security",
