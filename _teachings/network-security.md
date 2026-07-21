@@ -1,96 +1,125 @@
 ---
 layout: course
 title: Introduction to Network Security
-description: This section is currently undergoing updates to provide the most accurate and up-to-date information. We expect the new content to be available shortly. Thank you for your patience and understanding during this maintenance period.
+description: This introductory-level course covers the fundamental concepts of confidentiality, integrity, and availability of systems on a network, including authentication and authorization systems, firewalls, and tunnels. Please note that this course focuses strictly on theoretical foundations and does not include hands-on experience or labs.
 instructor: Dr. İlker Özçelik
 term: Fall
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+location: TBA
+time: TBA
+course_id: network-security
 schedule:
   - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+    date: TBA
+    topic: Introduction and Network Primer
+    description: Overview of introductory network security concepts.
 
   - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
+    date: TBA
+    topic: Security Concepts
+    description: Core concepts of network and internet security.
 
   - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+    date: TBA
+    topic: Encryption
+    description: Fundamentals of cryptographic protocols and encryption.
 
   - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
+    date: TBA
+    topic: Recon, Sniffing and Spoofing
+    description: Theoretical concepts behind network reconnaissance and attack vectors.
 
   - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
+    date: TBA
+    topic: Authentication and Authorization
+    description: Systems and methods for network authentication.
 
   - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
+    date: TBA
+    topic: Wireless Networks
+    description: Security vulnerabilities and defenses in wireless networks.
+
+  - week: 7
+    date: TBA
+    topic: Protocol Security
+    description: Securing standard network protocols.
+
+  - week: 8
+    date: TBA
+    topic: MIDTERM
+    description: Midterm examination.
+
+  - week: 9
+    date: TBA
+    topic: Network Security Research Fundamentals
+    description: Introduction to academic and practical research in network security.
+
+  - week: 10
+    date: TBA
+    topic: Anonymity
+    description: Network anonymity and privacy preserving systems.
+
+  - week: 11
+    date: TBA
+    topic: Firewall and Tunnel
+    description: Design and implementation of firewalls and secure tunnels.
+
+  - week: 12
+    date: TBA
+    topic: Botnet
+    description: Understanding botnet architectures and countermeasures.
+
+  - week: 13
+    date: TBA
+    topic: Denial of Service
+    description: DoS/DDoS attack mechanisms and mitigation strategies.
+
+  - week: 14
+    date: TBA
+    topic: New Trends in Network Security
+    description: Exploring modern and emerging threats in network security.
+
+  - week: 15
+    date: TBA
+    topic: Final Examination
+    description: Final assessment for the course.
 ---
 
 ## Course Overview
 
-**(Will Update Soon)** This course provides a comprehensive introduction to data science principles and practices. Students will:
+This introductory class will help students develop the necessary foundational knowledge to understand threats on a computer network, decide ways to address these threats conceptually, and analyze network systems while keeping security in mind.
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+### Course Objectives
+
+* Students will learn the foundational concepts and theories of network security.
+* Students will understand the underlying mechanisms of network data analysis and threat intelligence without requiring practical execution.
+* Students will develop the theoretical skills needed to evaluate and propose solutions for common network vulnerabilities.
+
+### Learning Outcomes
+
+* Students can explain fundamental network and information security concepts.
+* Students can realize and explain threats against Confidentiality, Integrity, and Availability on the network.
+* Students can list possible solution techniques & ideas against these threats.
+* Students can conceptually describe how network traffic is monitored and manipulated by standard security tools.
+
+---
 
 ## Prerequisites
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+* Introductory statistics
+* Comfort with basic algebra
+
+---
 
 ## Textbooks
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+* **Computer & Internet Security: A Hands-on Approach**, Second Edition, 2019 by Wenliang Du *(Note: Used for theoretical reference only)*
+*  **Distributed Denial of Service Attacks: Real-world Detection and Mitigation**, CRC Press 2020 by İlker Özçelik and Richard R. Brooks. 
+*  **Introduction to Computer and Network Security**, CRC Press 2013 by Richard R. Brooks
+
+---
 
 ## Grading
 
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+* Midterm: 40%
+* Final: 50%
+* Participation: 10%
