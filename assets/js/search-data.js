@@ -461,7 +461,7 @@ ninja.data = [{
               window.location.href = "/teachings/applied-network-security/";
             },},{id: "teachings-computer-networks",
           title: 'Computer Networks',
-          description: "This section is currently undergoing updates to provide the most accurate and up-to-date information. We expect the new content to be available shortly. Thank you for your patience and understanding during this maintenance period.",
+          description: "This course provides a comprehensive introduction to the architecture and protocols of the Internet using a top-down approach.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/computer-networks/";
             },},{id: "teachings-data-structures",
