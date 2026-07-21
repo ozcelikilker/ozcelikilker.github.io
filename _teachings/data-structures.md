@@ -1,112 +1,70 @@
 ---
 layout: course
-title: Data Structures
-description: This section is currently undergoing updates to provide the most accurate and up-to-date information. We expect the new content to be available shortly. Thank you for your patience and understanding during this maintenance period.
+title: Data Structures and Algorithms
 instructor: Dr. İlker Özçelik
+description: This course provides an essential introduction to data structures and algorithm design, covering foundational concepts from iterative and recursive algorithms to advanced structures like AVL trees, splay trees, and hash tables.
 term: Fall
-location: Main Campus, Room 301
-time: Tuesdays and Thursdays, 10:00-11:30 AM
-course_id: intro-machine-learning
+location: TBA
+time: TBA
 schedule:
   - week: 1
-    date: Sept 5
-    topic: Course Introduction
-    description: Overview of machine learning, course structure, and expectations.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: Iterative Algorithms
   - week: 2
-    date: Sept 12
-    topic: Linear Regression
-    description: Introduction to linear regression, gradient descent, and model evaluation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: Recursive Algorithms
   - week: 3
-    date: Sept 19
-    topic: Classification
-    description: Logistic regression, decision boundaries, and multi-class classification.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
-
+    topic: Contiguous Linked Allocation
   - week: 4
-    date: Sept 26
-    topic: Decision Trees and Random Forests
-    description: Tree-based methods, ensemble learning, and feature importance.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: Array List
   - week: 5
-    date: Oct 3
-    topic: Support Vector Machines
-    description: Margin maximization, kernel methods, and support vectors.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: Linked List
   - week: 6
-    date: Oct 10
-    topic: Midterm Exam
-    description: Covers weeks 1-5.
-
+    topic: Stacks
   - week: 7
-    date: Oct 17
-    topic: Neural Networks Fundamentals
-    description: Perceptrons, multilayer networks, and backpropagation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: Queues
   - week: 8
-    date: Oct 24
-    topic: Deep Learning
-    description: Convolutional neural networks, recurrent neural networks, and applications.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+    topic: Midterm Exam
+  - week: 9
+    topic: Trees
+  - week: 10
+    topic: Set Map ADTs, BST
+  - week: 11
+    topic: AVL Trees
+  - week: 12
+    topic: Splay Trees
+  - week: 13
+    topic: Comparison Based Search/ Hash Tables
+  - week: 14
+    topic: Hash Tables / Set-Map-ADTs Cont.
+  - week: 15
+    topic: Recap
+  - week: 16
+    topic: Final Exam
 ---
 
 ## Course Overview
 
-**(Will Update Soon)** This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
+This course provides a comprehensive introduction to the architecture and principles of data structures and algorithms. The curriculum begins by establishing a strong foundation in algorithmic analysis, guiding students through both iterative and recursive algorithm design methodologies. As the course progresses, we will explore essential linear data structures, detailing the mechanics and use cases of contiguous and linked allocation, array lists, linked lists, stacks, and queues. Moving beyond linear data, the second half of the semester delves deeply into complex hierarchical structures. Students will analyze and implement various tree architectures, including general Trees, Binary Search Trees (BST), AVL Trees, and Splay Trees, alongside Set and Map Abstract Data Types (ADTs). Finally, the course covers advanced data retrieval and indexing techniques through comparison-based searches and hash tables, ensuring students are fully equipped to select and implement the most efficient data structures for modern software engineering challenges.
 
-- Understand key machine learning paradigms and concepts
-- Implement basic machine learning algorithms
-- Evaluate and compare model performance
-- Apply machine learning techniques to real-world problems
+## Learning Outcomes
+
+- The students learn principles of data structures and algorithmic design.
+- The students establish and review core structural models.
+- The students can generate efficient software utilizing fundamental data structures.
 
 ## Prerequisites
 
-- Basic knowledge of linear algebra and calculus
-- Programming experience in Python
-- Probability and statistics fundamentals
+- There are no prerequisite courses required for this class.
 
-## Textbooks
+## Recommended Resources
 
-- Primary: "Machine Learning: A Probabilistic Perspective" by Kevin Murphy
-- Reference: "Pattern Recognition and Machine Learning" by Christopher Bishop
+- Mark Allen Weiss: Data Structures and Algorithms in C/C++
+- Sartaj Sahni: Data Structures and Algorithms in C++
+
+## Course Materials
+
+The materials for the weeks will be announced in Canvas. 
 
 ## Grading
 
-- Assignments: 40%
-- Midterm Exam: 20%
-- Final Project: 30%
-- Participation: 10%
+- Midterm Exam: %40
+- Final Exam: %60
