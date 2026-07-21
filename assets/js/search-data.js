@@ -476,7 +476,7 @@ ninja.data = [{
               window.location.href = "/teachings/eng-research-on-cybersecurity/";
             },},{id: "teachings-introduction-to-network-security",
           title: 'Introduction to Network Security',
-          description: "This section is currently undergoing updates to provide the most accurate and up-to-date information. We expect the new content to be available shortly. Thank you for your patience and understanding during this maintenance period.",
+          description: "This introductory-level course covers the fundamental concepts of confidentiality, integrity, and availability of systems on a network, including authentication and authorization systems, firewalls, and tunnels. Please note that this course focuses strictly on theoretical foundations and does not include hands-on experience or labs.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/network-security/";
             },},{
