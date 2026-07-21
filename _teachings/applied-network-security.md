@@ -2,9 +2,9 @@
 layout: course
 title: Applied Network Security
 description: This course covers the confidentiality, integrity, and availability of systems on a network, including authentication and authorization systems, firewalls, and tunnels, with hands-on network security applications in a virtual environment.
-instructor: Assist. Prof. Dr. İlker Özçelik
+instructor: Dr. İlker Özçelik
 term: Spring
-location: Science Building, Room TBA
+location: TBA
 time: TBA
 course_id: applied-network-security
 schedule:
