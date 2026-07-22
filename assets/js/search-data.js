@@ -57,6 +57,11 @@ ninja.data = [{
           description: "This course covers the confidentiality, integrity, and availability of systems on a network, including authentication and authorization systems, firewalls, and tunnels, with hands-on network security applications in a virtual environment.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/applied-network-security/";
+            },},{id: "teachings-computer-networks",
+          title: 'Computer Networks',
+          description: "This course provides a comprehensive introduction to the architecture and protocols of the Internet using a top-down approach, covering Chapter 1 through Chapter 6. Topics include the network edge and core, application layer protocols (HTTP, DNS), transport layer mechanisms (TCP/UDP), network layer data and control planes (IP, Routing), and link layer technologies (LANs, virtualization).",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/computer-networks/";
             },},{id: "teachings-data-structures-and-algorithms",
           title: 'Data Structures and Algorithms',
           description: "This course provides an essential introduction to data structures and algorithm design, covering foundational concepts from iterative and recursive algorithms to advanced structures like AVL trees, splay trees, and hash tables.",
