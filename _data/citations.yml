@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-22'
 papers:
   tSvqtb0AAAAJ:1qzjygNMrQYC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: Operational system testing for designed in security
     year: '2013'
   tSvqtb0AAAAJ:BqipwSGYUEgC:
-    citations: 39
+    citations: 40
     title: 'Distributed Denial of Service Attacks: Real-world Detection and Mitigation'
     year: '2020'
   tSvqtb0AAAAJ:BrmTIyaxlBUC:
@@ -113,6 +113,10 @@ papers:
     citations: 0
     title: "DA\u011EITIK HIZMET ENGELLEME / AKSATTIRMA SALDIRILARI (DDoS) VE KAR\u015EI \xD6NLEMLER"
     year: '2022'
+  tSvqtb0AAAAJ:XiVPGOgt02cC:
+    citations: 0
+    title: High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models
+    year: '2026'
   tSvqtb0AAAAJ:_xSYboBqXhAC:
     citations: 0
     title: Attack Mitigation
@@ -138,11 +142,11 @@ papers:
     title: Performance Analysis of DDoS Detection Methods on Real Network
     year: '2012'
   tSvqtb0AAAAJ:dshw04ExmUIC:
-    citations: 13
+    citations: 14
     title: 'Scrybe: a secure audit trail for clinical trial data fusion'
     year: '2023'
   tSvqtb0AAAAJ:eJXPG6dFmWUC:
-    citations: 10
+    citations: 11
     title: Adversarial Attack Detection Approach for Intrusion Detection Systems
     year: '2024'
   tSvqtb0AAAAJ:f2IySw72cVMC:
