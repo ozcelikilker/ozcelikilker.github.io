@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-12'
 papers:
   tSvqtb0AAAAJ:1qzjygNMrQYC:
     citations: 1
-    title: Edge Authentication Using a Cryptographic Accumulator
+    title: Edge authentication using a cryptographic accumulator
     year: '2025'
   tSvqtb0AAAAJ:1sJd4Hv_s6UC:
     citations: 2
     title: 'DDoS research: testing'
     year: '2020'
   tSvqtb0AAAAJ:2osOgNQ5qMEC:
-    citations: 18
+    citations: 17
     title: DoS Detection is Easier Now
     year: '2013'
   tSvqtb0AAAAJ:4fKUyHm3Qg0C:
@@ -46,8 +46,8 @@ papers:
     title: 'DDoS Research: Evaluation'
     year: '2020'
   tSvqtb0AAAAJ:D03iK_w7-QYC:
-    citations: 14
-    title: 'Cryptorevocate: A cryptographic accumulator based distributed certificate revocation list'
+    citations: 15
+    title: 'Cryptorevocate: a cryptographic accumulator based distributed certificate revocation list'
     year: '2021'
   tSvqtb0AAAAJ:D_sINldO8mEC:
     citations: 1
@@ -70,11 +70,11 @@ papers:
     title: An empirical evaluation of Blockchain transaction search methods
     year: '2024'
   tSvqtb0AAAAJ:M3NEmzRMIkIC:
-    citations: 4
+    citations: 3
     title: 'TRCyberLab: An infrastructure for future internet and security studies'
     year: '2018'
   tSvqtb0AAAAJ:NMxIlDl6LWMC:
-    citations: 18
+    citations: 14
     title: "Siber Ter\xF6r ve DDoS"
     year: '2019'
   tSvqtb0AAAAJ:NhqRSupF_l8C:
@@ -86,7 +86,7 @@ papers:
     title: 'MARS: Machine learning based Adaptable and Robust Network Management for Software-defined Networks'
     year: '2020'
   tSvqtb0AAAAJ:TFP_iSt0sucC:
-    citations: 37
+    citations: 39
     title: 'Cusum-entropy: an efficient method for DDoS attack detection'
     year: '2016'
   tSvqtb0AAAAJ:UeHWp8X0CEIC:
@@ -94,12 +94,12 @@ papers:
     title: Target tracking with self- organizing distributed sensors
     year: '2012'
   tSvqtb0AAAAJ:UxriW0iASnsC:
-    citations: 19
+    citations: 20
     title: MQTT Security at a Glance
     year: '2021'
   tSvqtb0AAAAJ:V3AGJWp-ZtQC:
     citations: 6
-    title: Using Blockchain Technology for Audit Trail
+    title: Using blockchain technology for audit trail
     year: '2025'
   tSvqtb0AAAAJ:VOx2b1Wkg3QC:
     citations: 0
@@ -122,7 +122,7 @@ papers:
     title: Attack Mitigation
     year: '2020'
   tSvqtb0AAAAJ:a0OBvERweLwC:
-    citations: 9
+    citations: 8
     title: An overview of machine learning based approaches in ddos detection
     year: '2020'
   tSvqtb0AAAAJ:abG-DnoFyZgC:
@@ -142,15 +142,15 @@ papers:
     title: Performance Analysis of DDoS Detection Methods on Real Network
     year: '2012'
   tSvqtb0AAAAJ:dshw04ExmUIC:
-    citations: 14
+    citations: 15
     title: 'Scrybe: a secure audit trail for clinical trial data fusion'
     year: '2023'
   tSvqtb0AAAAJ:eJXPG6dFmWUC:
     citations: 11
-    title: Adversarial Attack Detection Approach for Intrusion Detection Systems
+    title: Adversarial attack detection approach for intrusion detection systems
     year: '2024'
   tSvqtb0AAAAJ:f2IySw72cVMC:
-    citations: 0
+    citations: 1
     title: History and Motivation
     year: '2020'
   tSvqtb0AAAAJ:geHnlv5EZngC:
@@ -162,11 +162,11 @@ papers:
     title: Voice Activity Detection with Stochastic Resonance
     year: '2010'
   tSvqtb0AAAAJ:isC4tDSrTZIC:
-    citations: 100
+    citations: 96
     title: Stealthy domain generation algorithms
     year: '2017'
   tSvqtb0AAAAJ:j3f4tGmQtD8C:
-    citations: 99
+    citations: 100
     title: Deceiving entropy based DoS detection
     year: '2014'
   tSvqtb0AAAAJ:kRWSkSYxWN8C:
@@ -182,8 +182,8 @@ papers:
     title: Dos attack detection and mitigation
     year: '2015'
   tSvqtb0AAAAJ:mvPsJ3kp5DgC:
-    citations: 6
-    title: 'BEATS: Practical Audit Trail in Blockchain Systems'
+    citations: 5
+    title: 'BEATS: Practical audit trail in blockchain systems'
     year: '2025'
   tSvqtb0AAAAJ:nb7KW1ujOQ8C:
     citations: 3
@@ -194,7 +194,7 @@ papers:
     title: Evaluation and Design of Performable Distributed Systems
     year: '2020'
   tSvqtb0AAAAJ:pyW8ca7W8N0C:
-    citations: 78
+    citations: 79
     title: 'Distributed denial of service (DDoS): a history'
     year: '2021'
   tSvqtb0AAAAJ:q3oQSFYPqjQC:
