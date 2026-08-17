@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-17'
 papers:
   tSvqtb0AAAAJ:1qzjygNMrQYC:
     citations: 1
@@ -86,7 +86,7 @@ papers:
     title: 'MARS: Machine learning based Adaptable and Robust Network Management for Software-defined Networks'
     year: '2020'
   tSvqtb0AAAAJ:TFP_iSt0sucC:
-    citations: 39
+    citations: 40
     title: 'Cusum-entropy: an efficient method for DDoS attack detection'
     year: '2016'
   tSvqtb0AAAAJ:UeHWp8X0CEIC:
@@ -94,11 +94,11 @@ papers:
     title: Target tracking with self- organizing distributed sensors
     year: '2012'
   tSvqtb0AAAAJ:UxriW0iASnsC:
-    citations: 20
+    citations: 21
     title: MQTT Security at a Glance
     year: '2021'
   tSvqtb0AAAAJ:V3AGJWp-ZtQC:
-    citations: 6
+    citations: 7
     title: Using blockchain technology for audit trail
     year: '2025'
   tSvqtb0AAAAJ:VOx2b1Wkg3QC:
