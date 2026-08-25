@@ -25,7 +25,7 @@ The Intelligent Systems Security Laboratory (ISSLab) is led by Dr. İlker Özçe
 As modern systems become increasingly distributed and intelligent, they introduce complex security risks. We study these systems and develop advanced methodologies to build systems that are not only smart but also resilient against sophisticated cyber threats.
 
 <div class="text-center">
-<a href="https://ilkerozcelik.wordpress.com/" class="btn btn-outline-primary btn-sm" target="_blank">Visit Official Lab Website</a>
+<a href="https://isslab.co/" class="btn btn-outline-primary btn-sm" target="_blank">Visit Official Lab Website</a>
 </div>
 
 ## Research Focus
